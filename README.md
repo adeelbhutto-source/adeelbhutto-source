@@ -1,22 +1,21 @@
 # Muhammed Adil Bhutto
 
-Utdannet fra GET Academy. Jeg liker å bygge ting som faktisk fungerer — ikke bare øvelser.
+Jeg har fullført **Start IT**, et 20 ukers fulltidskurs i grunnleggende programmering ved GET Academy. Jeg liker å lære gjennom å bygge konkrete løsninger og forstå hvordan delene i et system henger sammen.
 
-**Nettside jeg har laget:** [peacecoparent.com](https://peacecoparent.com)  
-**Alt samlet:** [portfolio](https://github.com/adeelbhutto-source/portfolio)
+## Prosjekter
 
-## Hva jeg har laget
+- **[PeaceCoParent](https://github.com/adeelbhutto-source/portfolio/tree/main/PeaceCoParent)** – Eget fullstack-prosjekt for medforeldre, med kalender, meldinger, utgifter og dokumenter. Android-appen er klargjort for publisering på Google Play, men er ennå ikke publisert.
+- **Buddy** – Python-prosjekt for norsk samtale og lagring av samtalehistorikk.
+- **Chappie** – Eksperimentelt Python-prosjekt med separat runtime, sesjonshåndtering og modelladapter.
+- **Musikkbibliotek** – MVC-basert JavaScript-prosjekt laget som teamoppgave ved GET Academy.
+- **Pokemon-spill** – C#-konsollspill laget gjennom parprogrammering.
 
-- **PeaceCoParent** — SaaS for medforeldre (kalender, meldinger, Stripe, database)
-- **Buddy-AI** — Egen PyTorch-modell med minne, norsk
-- **Chappie** — Liten assistent-runtime, skrevet på nytt med tester
-- **Musikkbibliotek** — MVC webapp fra utdanningen (teamoppgave)
-- **Pokemon-spill** — C#, parprogrammering
+## Teknologier jeg har arbeidet med
 
-## Stack jeg bruker
+C#, JavaScript, TypeScript, Python, HTML/CSS, Next.js, Node.js, PostgreSQL og Git/GitHub.
 
-TypeScript, Python, C#, JavaScript, Next.js, Node, PostgreSQL, PyTorch
+## Hva jeg søker
 
----
+Jeg søker en fast fulltidsstilling innen IT, særlig IT-support, brukerstøtte eller juniorutvikling. Jeg motiveres av å feilsøke, lære nye systemer og gjøre tekniske løsninger enklere å bruke.
 
-Søker junior- eller lærlingstilling som utvikler. Ta gjerne kontakt via GitHub.
+Se [porteføljen min](https://github.com/adeelbhutto-source/portfolio) for kode og prosjektbeskrivelser.

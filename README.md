@@ -1,21 +1,50 @@
-# Muhammed Adil Bhutto
+# Adil Bhutto
 
-Jeg har fullført **Start IT**, et 20 ukers fulltidskurs i grunnleggende programmering ved GET Academy. Jeg liker å lære gjennom å bygge konkrete løsninger og forstå hvordan delene i et system henger sammen.
+Junior IT / support / developer candidate based in Norway.
 
-## Prosjekter
+I completed **Start IT at GET Academy**, a 20-week full-time programme covering JavaScript, C#, OOP, MVC, data modelling, unit testing and Git/GitHub. My goal with this profile is to make it easy to see code I can discuss, not just a list of technologies.
 
-- **[PeaceCoParent](https://github.com/adeelbhutto-source/portfolio/tree/main/PeaceCoParent)** – Eget fullstack-prosjekt for medforeldre, med kalender, meldinger, utgifter og dokumenter. Android-appen er klargjort for publisering på Google Play, men er ennå ikke publisert.
-- **Buddy** – Python-prosjekt for norsk samtale og lagring av samtalehistorikk.
-- **Chappie** – Eksperimentelt Python-prosjekt med separat runtime, sesjonshåndtering og modelladapter.
-- **Musikkbibliotek** – MVC-basert JavaScript-prosjekt laget som teamoppgave ved GET Academy.
-- **Pokemon-spill** – C#-konsollspill laget gjennom parprogrammering.
+## Start here
 
-## Teknologier jeg har arbeidet med
+### 1. JavaScript MVC team project
+**[Musikkbibliotek](https://github.com/adeelbhutto-source/portfolio/tree/main/Musikkbibliotek)**  
+GET Academy team project built in plain JavaScript using a simple MVC structure.
 
-C#, JavaScript, TypeScript, Python, HTML/CSS, Next.js, Node.js, PostgreSQL og Git/GitHub.
+Useful files:
+- [Model / application state](https://github.com/adeelbhutto-source/portfolio/blob/main/Musikkbibliotek/Model/model.js)
+- [Wishlist controller](https://github.com/adeelbhutto-source/portfolio/blob/main/Musikkbibliotek/Controller/Universal/save.js)
+- [Views](https://github.com/adeelbhutto-source/portfolio/tree/main/Musikkbibliotek/View)
 
-## Hva jeg søker
+### 2. C# pair-programming project
+**[Pokemon Game](https://github.com/adeelbhutto-source/portfolio/tree/main/Pokemon-Game)**  
+Console game using classes, collections, control flow, inventory and battle logic.
 
-Jeg søker en fast fulltidsstilling innen IT, særlig IT-support, brukerstøtte eller juniorutvikling. Jeg motiveres av å feilsøke, lære nye systemer og gjøre tekniske løsninger enklere å bruke.
+Useful files:
+- [Battle.cs](https://github.com/adeelbhutto-source/portfolio/blob/main/Pokemon-Game/Battle.cs)
+- [Trainer.cs](https://github.com/adeelbhutto-source/portfolio/blob/main/Pokemon-Game/Trainer.cs)
 
-Se [porteføljen min](https://github.com/adeelbhutto-source/portfolio) for kode og prosjektbeskrivelser.
+### 3. C# fundamentals
+**[Movie Catalog](https://github.com/adeelbhutto-source/portfolio/tree/main/Movie-Book-Catalog)**  
+Small console assignment that separates menu/input handling from catalogue data.
+
+Useful files:
+- [Menu.cs](https://github.com/adeelbhutto-source/portfolio/blob/main/Movie-Book-Catalog/Menu.cs)
+- [MovieCatalog.cs](https://github.com/adeelbhutto-source/portfolio/blob/main/Movie-Book-Catalog/MovieCatalog.cs)
+
+## Larger product project
+
+**[PeaceCoParent](https://github.com/adeelbhutto-source/portfolio/tree/main/PeaceCoParent)** is a larger full-stack co-parenting SaaS project with Next.js, Express/TypeScript, PostgreSQL, Stripe and an Expo mobile app.
+
+AI coding tools have been used extensively in its implementation. I therefore present PeaceCoParent primarily as evidence of product building, architecture/integration work and technical problem-solving rather than as proof that every line was written manually.
+
+For concrete entry points, see the [technical walkthrough](https://github.com/adeelbhutto-source/portfolio/blob/main/PeaceCoParent/TECHNICAL_WALKTHROUGH.md).
+
+## Technologies I have worked with
+
+C# · JavaScript · TypeScript · Python · HTML/CSS · Node.js · Express · Next.js · PostgreSQL · Git/GitHub
+
+## What I am looking for
+
+A full-time role in **IT support, technical/application support, QA/testing or junior development** where I can keep building practical experience, troubleshoot problems and learn systems in depth.
+
+[View the full portfolio](https://github.com/adeelbhutto-source/portfolio)

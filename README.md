@@ -2,13 +2,27 @@
 
 Entry-level **IT support / technical support / QA / junior development** candidate based in Norway.
 
-I came into IT through practical technical work and problem-solving rather than a traditional computer-science path. In June 2026 I completed **Start IT at GET Academy**, a 20-week full-time programme covering JavaScript, C#, OOP, MVC, data modelling, unit testing and Git/GitHub.
+I came into IT through practical technical work and problem-solving rather than a traditional computer-science path. Before focusing on IT I worked in hands-on roles including electrical work, logistics and customer-facing work. The part I consistently enjoyed was troubleshooting: understanding why something did not work, narrowing the problem down and finding a practical solution.
 
-This profile is organised around code I can explain and discuss, including its limitations.
+In June 2026 I completed **Start IT at GET Academy**, a 20-week full-time programme covering JavaScript, C#, OOP, MVC, data modelling, unit testing and Git/GitHub. I am now building breadth deliberately through small projects I can explain rather than trying to make one project look bigger than it is.
+
+## Currently building
+
+### Windows Support Lab
+**[Open the lab](https://github.com/adeelbhutto-source/portfolio/tree/main/Windows-Support-Lab)**
+
+A hands-on PowerShell / Windows troubleshooting project focused on:
+- network triage
+- DNS troubleshooting
+- Windows services
+- structured support data collection
+- documenting symptoms, hypotheses, tests and conclusions
+
+The starter scripts intentionally contain TODOs. Completed work will be added together with a learning log so the repository shows what I actually tested and understood.
 
 ## Review my code in 5 minutes
 
-### 1. JavaScript MVC — Musikkbibliotek
+### JavaScript MVC — Musikkbibliotek
 **[Open project](https://github.com/adeelbhutto-source/portfolio/tree/main/Musikkbibliotek)**
 
 GET Academy team project built in plain JavaScript.
@@ -20,7 +34,7 @@ Start with:
 
 I can discuss MVC separation, in-memory state, array methods, UI state changes, and why the demo authentication should not be used in a real application.
 
-### 2. C# OOP — Pokemon Game
+### C# OOP — Pokemon Game
 **[Open project](https://github.com/adeelbhutto-source/portfolio/tree/main/Pokemon-Game)**
 
 GET Academy pair-programming console project.
@@ -31,7 +45,7 @@ Start with:
 
 I can discuss classes, collections, state changes, loops, probability and improvements I would make to the battle logic today.
 
-### 3. C# fundamentals — Movie Catalog
+### C# fundamentals — Movie Catalog
 **[Open project](https://github.com/adeelbhutto-source/portfolio/tree/main/Movie-Book-Catalog)**
 
 Small GET Academy console assignment.
@@ -41,6 +55,11 @@ Start with:
 - [MovieCatalog.cs](https://github.com/adeelbhutto-source/portfolio/blob/main/Movie-Book-Catalog/MovieCatalog.cs)
 
 This is intentionally kept as an early learning project. I can explain both the code and what I would refactor now, including input validation and separation of responsibilities.
+
+### Python architecture experiment — Chappie
+**[Open project](https://github.com/adeelbhutto-source/portfolio/tree/main/Chappie)**
+
+A small learning experiment around runtime orchestration, adapter interfaces, session state and a PyTorch transformer experiment.
 
 ## Larger product project
 
@@ -53,9 +72,14 @@ AI coding tools have been used extensively in its implementation. I therefore do
 
 For a guided review, see the [technical walkthrough](https://github.com/adeelbhutto-source/portfolio/blob/main/PeaceCoParent/TECHNICAL_WALKTHROUGH.md).
 
-## Technologies I have worked with
+## Technical breadth
 
-C# · JavaScript · TypeScript · HTML/CSS · Node.js · Express · Next.js · PostgreSQL · Git/GitHub
+- **C#** — OOP, collections, console applications
+- **JavaScript** — MVC, application state, DOM-based applications
+- **TypeScript / Node / Express** — backend APIs and integrations
+- **Python** — small architecture and ML experiments
+- **PowerShell / Windows** — currently building hands-on support and diagnostics labs
+- **PostgreSQL / Git / GitHub** — data and development workflow
 
 ## What I am looking for
 
